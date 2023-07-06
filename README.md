@@ -1,7 +1,7 @@
 ## Hello there! I'm Marcelo Gabriel. 👋
 
 ### 👾 About me 
-I'm currently studying Web Developer at [Rocketseat](https://rocketseat.com.br/) and doing a "information systems" bachelor's degree at [FIAP](https://www.fiap.com.br)
+I'm currently studying Web Developer at [Rocketseat](https://rocketseat.com.br/) and doing a information systems bachelor's degree at [FIAP](https://www.fiap.com.br)
 
 ### 🛠 Skills
 - 🖼️ Front-end: `JavaScript`, `CSS3`, `HTML5`
