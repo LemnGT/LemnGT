@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there! I'm Marcelo Gabriel. 👋
 
-<!--
-**LemnGT/LemnGT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👾 About me 
+I'm currently studying Web Developer at [Rocketseat](https://rocketseat.com.br/) and doing a bachelor's degree at [FIAP](https://www.fiap.com.br)
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- 🖼️ Front-end: `JavaScript`, `CSS3`, `HTML5`
+- 🎨 Layout Design: `Figma`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contacts
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelogla/)
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](m2biel000@outlook.com)
