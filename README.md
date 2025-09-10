@@ -1,11 +1,13 @@
 ## Hello there! I'm Marcelo Gabriel. 👋
 
 ### 👾 About me 
-I'm currently studying Web Developer at [Rocketseat](https://rocketseat.com.br/) and doing a Bachelor's degree in Information Systems at [FIAP](https://www.fiap.com.br)
+I'm currently studying Web Developing at [Rocketseat](https://rocketseat.com.br/), Data Science at [Alura](https://cursos.alura.com.br/) and doing a Bachelor's degree in Information Systems at [FIAP](https://www.fiap.com.br)
 
 ### 🛠 Skills
 - 🖼️ Front-end: `JavaScript`, `CSS3`, `HTML5`
 - 🎨 Layout Design: `Figma`
+- :floppy_disk: Data: `Python`, `SQL`, `LookerStudio`, `MicrosoftPowerBI`
+- :robot: Automation: `n8n`, `MicrosoftPowerAutomate`
 
 
 #### Contacts
