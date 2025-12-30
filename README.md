@@ -6,6 +6,7 @@
 
 ### 🛠 Skills
 - 🖼️ Front-end: `JavaScript`, `CSS3`, `HTML5`
+- :computer: Back-end: `C#`, `JAVA`
 - 🎨 Layout Design: `Figma`
 - :floppy_disk: Data: `Python`, `SQL`, `LookerStudio`, `MicrosoftPowerBI`
 - :robot: Automation: `n8n`, `MicrosoftPowerAutomate`
