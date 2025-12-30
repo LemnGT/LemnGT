@@ -5,7 +5,7 @@
 - Currently studying Web Developing at [Rocketseat](https://rocketseat.com.br/), Data Science and C# at [Alura](https://cursos.alura.com.br/)
 
 ### 🛠 Skills
-- 🖼️ Front-end: `JavaScript`, `CSS3`, `HTML5`
+- 🖼️ Front-end: `JavaScript`, `TypeScript`, `React`, `CSS3`, `HTML5`
 - :computer: Back-end: `C#`, `JAVA`
 - 🎨 Layout Design: `Figma`
 - :floppy_disk: Data: `Python`, `SQL`, `LookerStudio`, `MicrosoftPowerBI`
